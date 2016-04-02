@@ -1,0 +1,137 @@
+﻿{
+    "Half-Timbered Wall: Style 1": {
+		"category":"Structures"
+		"model": "stuccoWallStyle1",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Wall: Style 2": {
+		"category":"Structures"
+		"model": "stuccoWallStyle2",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Wall: Style 3": {
+		"category":"Structures"
+		"model": "stuccoWallStyle3",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Door": {
+		"category":"Structures"
+		"model": "stuccoWallDoor",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Window": {
+		"category":"Structures"
+		"model": "stuccoWallWindow",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f",
+			"color3": "#09380a"
+		}
+	}
+	
+	"Half-Timbered Half Roof": {
+		"category":"Structures"
+		"model": "stuccoRoofHalf",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Corner Roof": {
+		"category":"Structures"
+		"model": "stuccoRoofCorner",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Roof Peak": {
+		"category":"Structures"
+		"model": "stuccoRoofPeak",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Roof End": {
+		"category":"Structures"
+		"model": "stuccoRoofEnd",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+}
