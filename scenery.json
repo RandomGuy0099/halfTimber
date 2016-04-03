@@ -44,6 +44,21 @@
 		}
 	}
 	
+	"Half-Timbered Wall: Style 4": {
+		"category":"Structures"
+		"model": "stuccoWallStyle4",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
 	"Half-Timbered Door": {
 		"category":"Structures"
 		"model": "stuccoWallDoor",
