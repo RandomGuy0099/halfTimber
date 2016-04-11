@@ -1,6 +1,6 @@
 ﻿{
     "Half-Timbered Wall: Style 1": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallStyle1",
 		"type": "deco",
 		"grid": true,
@@ -15,7 +15,7 @@
 	}
 	
 	"Half-Timbered Wall: Style 2": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallStyle2",
 		"type": "deco",
 		"grid": true,
@@ -30,7 +30,7 @@
 	}
 	
 	"Half-Timbered Wall: Style 3": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallStyle3",
 		"type": "deco",
 		"grid": true,
@@ -45,7 +45,7 @@
 	}
 	
 	"Half-Timbered Wall: Style 4": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallStyle4",
 		"type": "deco",
 		"grid": true,
@@ -60,7 +60,7 @@
 	}
 	
 	"Half-Timbered Door": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallDoor",
 		"type": "deco",
 		"grid": true,
@@ -75,7 +75,7 @@
 	}
 	
 	"Half-Timbered Window": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoWallWindow",
 		"type": "deco",
 		"grid": true,
@@ -91,7 +91,7 @@
 	}
 	
 	"Half-Timbered Half Roof": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoRoofHalf",
 		"type": "deco",
 		"grid": true,
@@ -101,12 +101,13 @@
 		"recolorable": true,
 		"recolorableOptions": {
 			"color1": "#ebe8c7",
-			"color2": "#3a250f"
+			"color2": "#3a250f",
+			"color3": "#232222"
 		}
 	}
 	
 	"Half-Timbered Corner Roof": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoRoofCorner",
 		"type": "deco",
 		"grid": true,
@@ -116,13 +117,78 @@
 		"recolorable": true,
 		"recolorableOptions": {
 			"color1": "#ebe8c7",
-			"color2": "#3a250f"
+			"color2": "#3a250f",
+			"color3": "#232222"
 		}
 	}
 	
 	"Half-Timbered Roof Peak": {
-		"category":"Structures"
+		"category":"Half-Timbered Buildings"
 		"model": "stuccoRoofPeak",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f",
+			"color3": "#232222"
+		}
+	}
+	
+	"Half-Timbered Roof End": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoRoofEnd",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f",
+			"color3": "#232222"
+		}
+	}
+	
+	"Half-Timbered Wall Half: Vertical Style 1": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoWallHalfStyle1V",
+		"type": "deco",
+		"grid": false,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Wall Half: Vertical Style 2": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoWallHalfStyle2V",
+		"type": "deco",
+		"grid": false,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Wall Half: Horizontal Style 1": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoWallHalfStyle1H",
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 0.25,
@@ -135,9 +201,24 @@
 		}
 	}
 	
-	"Half-Timbered Roof End": {
-		"category":"Structures"
-		"model": "stuccoRoofEnd",
+	"Half-Timbered Wall Half: Horizontal Style 2": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoWallHalfStyle2H",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 0.25,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ebe8c7",
+			"color2": "#3a250f"
+		}
+	}
+	
+	"Half-Timbered Wall Half: Horizontal Style 3": {
+		"category":"Half-Timbered Buildings"
+		"model": "stuccoWallHalfStyle3H",
 		"type": "deco",
 		"grid": true,
 		"heightDelta": 0.25,
