@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3997385728
+CRC: 1089541977
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c9d592717969d2ee19c1aff9ff08caf9
+    Hash: 9cf43ea452134a42f3ce2afb9a035f64
   TypeTreeHash:
     serializedVersion: 2
     Hash: d04f2e2d77895f67ea940f894261a21b
@@ -35,6 +35,7 @@ Assets:
 - Assets/Textures/stuccoWallStyle3.blend
 - Assets/Textures/stuccoRoofCorner.blend
 - Assets/Textures/stuccoWallHalfStyle1H.blend
+- Assets/Textures/shutters.blend
 - Assets/Textures/stuccoWallStyle1.blend
 - Assets/Textures/stuccoRoofPeak.blend
 - Assets/Textures/stuccoWallHalfStyle2V.blend

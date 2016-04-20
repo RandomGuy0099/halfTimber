@@ -90,6 +90,21 @@
 		}
 	}
 	
+	"Window Shutters": {
+		"category":"Half-Timbered Buildings"
+		"model": "shutters",
+		"type": "deco",
+		"grid": false,
+		"gridSubdivision": 1.0,
+		"heightDelta": 0.25,
+		"price": 5.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#09380a"
+		}
+	}
+	
 	"Half-Timbered Half Roof": {
 		"category":"Half-Timbered Buildings"
 		"model": "stuccoRoofHalf",
