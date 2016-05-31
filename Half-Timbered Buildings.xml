@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Half-Timbered Buildings</ModName>
+  <ModDiscription>A scenery pack filled with walls constructed using the half-timbered method.</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallStyle3</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall: Style 3</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallStyle1</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall: Style 1</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallWindow</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Window</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>09380A</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallHalfStyle2V</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Half: Vertical Style 2</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoRoofEnd</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Roof End</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>232222</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallDoor</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Door</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallStyle2</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall: Style 2</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallHalfStyle1H</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Half: Horizontal Style 1</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoRoofCorner</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Corner Roof</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>232222</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallHalfStyle1V</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Half: Vertical Style 1</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoRoofHalf</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Half Roof</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>232222</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoRoofPeak</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Roof Peak</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>232222</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallStyle4</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall: Style 4</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@shutters</OBJName>
+      <Type>deco</Type>
+      <inGameName>Window Shutters</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>09380A</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallHalfStyle2H</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Half: Horizontal Style 2</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallHalfStyle3H</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Half: Horizontal Style 3</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallStyle5</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall: Style 5</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@halfTimberHTimber</OBJName>
+      <Type>deco</Type>
+      <inGameName>Horizontal Timber</inGameName>
+      <price>2.5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>3A250F</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Half-Timbered Buildings@stuccoWallQuarter</OBJName>
+      <Type>deco</Type>
+      <inGameName>Half-Timbered Wall Quarter</inGameName>
+      <price>2.5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Half-Timbered Buildings</category>
+      <heightDelta>0.25</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>EBE8C7</Color1>
+      <Color2>3A250F</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+  </Objects>
+</Mod>

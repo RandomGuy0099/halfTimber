@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3829160917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef758fb65d3bf78c73136933f5031129
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18f88a6a41a39d45481574f548d1d50a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallStyle1.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallWindow.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallHalfStyle2V.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoRoofCorner.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallStyle2.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@shutters.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallStyle5.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallDoor.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallStyle4.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallHalfStyle3H.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallQuarter.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoRoofEnd.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallHalfStyle2H.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@halfTimberHTimber.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallStyle3.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoRoofPeak.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallHalfStyle1V.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoRoofHalf.prefab
+- Assets/Mods/Half-Timbered Buildings/Half-Timbered Buildings@stuccoWallHalfStyle1H.prefab
+Dependencies: []
